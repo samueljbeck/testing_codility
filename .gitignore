@@ -35,18 +35,29 @@ captures/
 # IntelliJ
 *.iml
 .idea/workspace.xml
+.gradle
+/local.properties
 .idea/tasks.xml
 .idea/gradle.xml
 .idea/assetWizardSettings.xml
 .idea/dictionaries
 .idea/libraries
 .idea/caches
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
 #*.jks
 
 # External native build folder generated in Android Studio 2.2 and later
+.DS_Store
+/build
+/captures
 .externalNativeBuild
 
 # Google Services (e.g. APIs or Firebase)
