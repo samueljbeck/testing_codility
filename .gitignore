@@ -60,6 +60,7 @@ captures/
 /captures
 .externalNativeBuild
 
+/.idea/vcs.xml
 # Google Services (e.g. APIs or Firebase)
 google-services.json
 
