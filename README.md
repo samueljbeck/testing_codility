@@ -1,2 +1,2 @@
-# testing_codility
-Working through Codility Lessons
+# Codility Lessons
+I really struggle with Codility tests.  So I have begun working through the lessonss.  
