@@ -22,9 +22,6 @@ class AsynchronyTest {
     @Test
     fun replacementTest() {
 
-        Settings.Global.launch {
-            de
-        }
 
         System.out.println(encode("Hello World!"))
         assertEquals("g2kk4yv4qkc!", encode("Hello World!"))
